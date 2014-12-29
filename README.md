@@ -1,0 +1,4 @@
+LogCheck
+========
+
+Python logComparator
